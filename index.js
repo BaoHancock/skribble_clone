@@ -156,7 +156,7 @@ if(room.currentRound<=room.maxRounds){
 
             })
         }catch(e){
-            console.log(err);
+            console.log(e);
         }
 
 
