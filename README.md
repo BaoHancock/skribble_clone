@@ -13,7 +13,7 @@ These is a flutter project
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/sangrammohite31/skribble_clone/blob/master/Screenshot%202024-05-10%20233618.png?raw=true)
 
 
 ## Roadmap
